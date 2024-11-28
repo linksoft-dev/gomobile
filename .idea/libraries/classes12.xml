@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/compile_app_classes_jar/debug/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

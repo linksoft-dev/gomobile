@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/capacitor/android" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/capacitor/android" />
+            <option value="$PROJECT_DIR$/capacitor/android/app" />
+            <option value="$PROJECT_DIR$/capacitor/android/capacitor-cordova-android-plugins" />
+            <option value="$PROJECT_DIR$/capacitor/node_modules/@capacitor/android/capacitor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/web/android" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/web/android" />
+            <option value="$PROJECT_DIR$/web/android/app" />
+            <option value="$PROJECT_DIR$/web/android/capacitor-cordova-android-plugins" />
+            <option value="$PROJECT_DIR$/web/node_modules/@capacitor/android/capacitor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

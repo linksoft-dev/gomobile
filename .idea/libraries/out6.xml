@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="out6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/project_dex_archive/debug/out/076cd57efe9da46750462d5500bf79ca37978f510f405b671b0c69d25859315f_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/project_dex_archive/debug/out/076cd57efe9da46750462d5500bf79ca37978f510f405b671b0c69d25859315f_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

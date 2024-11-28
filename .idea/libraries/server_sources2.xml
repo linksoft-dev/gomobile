@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server-sources2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/libs/server-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="out5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/project_dex_archive/debugAndroidTest/out/1819b7af313d354e7ad3595b8eeab447a2bfdbc760d6144c26fd6a694f0f2399_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/project_dex_archive/debugAndroidTest/out/1819b7af313d354e7ad3595b8eeab447a2bfdbc760d6144c26fd6a694f0f2399_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

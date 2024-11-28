@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="public2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/compressed_assets/debug/out/assets/public/cordova_plugins.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/compressed_assets/debug/out/assets/public/index.html.jar!/" />
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/compressed_assets/debug/out/assets/public/cordova.js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

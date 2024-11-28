@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_server-runtime2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/capacitor/android/app/build/intermediates/external_file_lib_dex_archives/debug/1_server-runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
